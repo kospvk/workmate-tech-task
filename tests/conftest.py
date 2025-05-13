@@ -1,6 +1,6 @@
 import pytest
 
-from models import Employee
+from src.models import Employee
 
 
 @pytest.fixture

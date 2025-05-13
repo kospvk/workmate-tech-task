@@ -1,5 +1,6 @@
 import abc
 from typing import Any, Iterable
+
 from models import Employee
 
 

@@ -1,5 +1,4 @@
-from models import Employee
-from reports.payout import PayoutReport
+from src.reports.payout import PayoutReport
 
 
 def test_payout_report(employees):

@@ -1,4 +1,5 @@
 from collections.abc import Iterable
+
 from models import Employee
 from reports.base import Report
 

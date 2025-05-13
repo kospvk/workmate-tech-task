@@ -16,7 +16,7 @@
 
 1. Клонировать проект
 ```bash
-git clone 
+git clone git@github.com:kospvk/workmate-tech-task.git
 ```
 2. Создать и активировать виртуальное окружение
 ```bash
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 4. Запуск скрипта
 ```bash
-python3 main.py -r payout data/data1.csv data/data2.csv data/data3.csv --output-file=report.json
+python3 src/main.py -r payout data/data1.csv data/data2.csv data/data3.csv --output-file=report.json
 ```
 
 ## Тестирование 

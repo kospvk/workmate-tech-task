@@ -1,5 +1,5 @@
-from converters import dict_to_dataclass
-from models import Employee
+from src.converters import dict_to_dataclass
+from src.models import Employee
 
 
 def test_dict_to_dataclass():

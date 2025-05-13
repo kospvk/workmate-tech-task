@@ -1,4 +1,4 @@
-from csv_parser import parse_csv_file
+from src.csv_parser import parse_csv_file
 
 
 def test_parse_csv_file():
