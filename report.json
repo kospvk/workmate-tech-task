@@ -1,0 +1,46 @@
+{
+    "Marketing": [
+        {
+            "email": "alice@example.com",
+            "value": 8000
+        },
+        {
+            "email": "henry@example.com",
+            "value": 5250
+        }
+    ],
+    "Design": [
+        {
+            "email": "bob@example.com",
+            "value": 6000
+        },
+        {
+            "email": "carol@example.com",
+            "value": 10200
+        }
+    ],
+    "HR": [
+        {
+            "email": "grace@example.com",
+            "value": 7200
+        },
+        {
+            "email": "ivy@example.com",
+            "value": 6004
+        },
+        {
+            "email": "liam@example.com",
+            "value": 6510
+        }
+    ],
+    "Sales": [
+        {
+            "email": "karen@example.com",
+            "value": 8250
+        },
+        {
+            "email": "mia@example.com",
+            "value": 5920
+        }
+    ]
+}
